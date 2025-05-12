@@ -13,7 +13,7 @@ This project uses the [Frankfurter API](https://www.frankfurter.app/) to fetch l
 ## Installation:
 1. Clone this repository:
     ```bash
-    git clone https://github.com/samridhi0025/Currency-Converter.git
+    git clone https://github.com/samridhi0025/samridhi0025.github.io.git
     ```
 2. Open `index.html` in your browser to run the app.
 
